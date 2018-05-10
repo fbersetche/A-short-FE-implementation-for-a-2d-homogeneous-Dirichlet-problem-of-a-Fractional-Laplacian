@@ -1,6 +1,6 @@
 
 This is the code exposed in the article "A short implementation for a 2D Dirichlet 
-problem of a fractional laplacian" aviable online here: https://arxiv.org/abs/1610.05558
+problem of a fractional laplacian" available online here: https://arxiv.org/abs/1610.05558
 
 In that paper we provide a comprehensive and simple 2D MATLAB finite element code for a 
 Dirichlet problem of a fractional laplacian. The main code is written in about 80 lines 
